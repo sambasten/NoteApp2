@@ -1,0 +1,24 @@
+{
+  "name": "note-app2",
+  "version": "1.0.0",
+  "description": "A simple note taking application",
+  "main": "noteapp2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambasten/NoteApp2.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "npm"
+  ],
+  "author": "Sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambasten/NoteApp2/issues"
+  },
+  "homepage": "https://github.com/sambasten/NoteApp2#readme"
+}
