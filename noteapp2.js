@@ -57,4 +57,4 @@ function NotesApplication(author){
 			return this.noteList; //return notelist
 };
 }
-exports.NotesApplication
+module.exports = NotesApplication
